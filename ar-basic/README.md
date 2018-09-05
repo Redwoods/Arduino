@@ -3,8 +3,8 @@ Lecture on learning Arduino from scratch.
 
 SW
 
-- Arduino IDE
-- Fritzing
+- [Arduino IDE](https://www.arduino.cc/)
+- [Fritzing](http://fritzing.org/download/)
 
 HW
 
