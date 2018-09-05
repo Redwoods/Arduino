@@ -8,4 +8,4 @@ SW
 
 HW
 
-- High-level kit for Arduino
+- [High-level kit for Arduino](http://arduinostory.com/goods/goods_view.php?goodsNo=1000000306)
