@@ -7,4 +7,6 @@ SW
 - [plotly.js](https://plot.ly/)
 - [MongoDB](https://www.mongodb.com/download-center#community)
 - [Google colab](https://colab.research.google.com/)
+- [Python](https://www.anaconda.com)
+
 
