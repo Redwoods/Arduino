@@ -25,7 +25,7 @@
 - [AR23	김민재	10](https://github.com/AR23-KMJ)
 - [AR24	김영록	7](https://github.com/septempeccatis/ar24)
 - [AR25	송다은	3](https://github.com/daeun99/ar25)
-- [AR26	정지환	10](https://github.com/AR26-jihwan/ar26)
+- [AR26	정지환	10](https://github.com/AR26-jihwan/ar26)  # 
 - [AR27	김종건	14](https://github.com/kjg9704/ar27)
 ---
 
