@@ -14,18 +14,18 @@
 - [AR12	이석민	5](https://github.com/Leeseokmin97/AR12)
 - [AR13	이주원	13](https://github.com/20161514/ar13)
 - [AR14	정재영	5](https://github.com/jaeyoung6179/AR14)
-- [AR15	차유신	13](https://github.com/Usin96/ar15) ##
+- [AR15	차유신	13](https://github.com/Usin96/ar15) ###
 - [AR16	하태성	12](https://github.com/gkxotjd12312/AR16)
 - [AR17	강현이	1](https://github.com/Hyeonyi9081/ar17)
 - [AR18 신종원	2](https://www.github.com/jonogo/ar18)
-- [AR19	최진솔	6](https://github.com/Choijinsol-maker/AR19)
+- [AR19	최진솔	6](https://github.com/Choijinsol-maker/AR19) #
 - [AR20	김경미	7](https://github.com/kyungmi0120/ar20)
 - [AR21	김경영	3](https://github.com/IjuHM17/ar21) ##
 - [AR22	김규년	2](https://github.com/kgn4746/ar22)
-- [AR23	김민재	10](https://github.com/AR23-KMJ/ar23) #
+- [AR23	김민재	10](https://github.com/AR23-KMJ/ar23) ##
 - [AR24	김영록	7](https://github.com/septempeccatis/ar24)
 - [AR25	송다은	3](https://github.com/daeun99/ar25)
-- [AR26	정지환	10](https://github.com/AR26-jihwan/ar26)  # 
+- [AR26	정지환	10](https://github.com/AR26-jihwan/ar26)  ##
 - [AR27	김종건	14](https://github.com/kjg9704/ar27)
 ---
 
