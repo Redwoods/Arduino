@@ -11,9 +11,9 @@
 - [AR09	손성빈	11](https://github.com/ijseongbin/ar09-)
 - [AR10	안예찬	11](https://github.com/dksdpcks1/ar10)
 - [AR11	유종인	12](https://github.com/yujongin/ar11)
-- AR12	이석민	5
+- [AR12	이석민	5](https://github.com/Leeseokmin97/AR12)
 - [AR13	이주원	13](https://github.com/20161514/ar13)
-- AR14	정재영	5
+- [AR14	정재영	5](https://github.com/jaeyoung6179/AR14)
 - [AR15	차유신	13](https://github.com/Usin96/ar15) ##
 - [AR16	하태성	12](https://github.com/gkxotjd12312/AR16)
 - [AR17	강현이	1](https://github.com/Hyeonyi9081/ar17)
