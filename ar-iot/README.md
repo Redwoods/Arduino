@@ -1,6 +1,11 @@
 # Arduino IoT
 Lecture on learning Arduino from scratch to the advanced level in iot environment.
 
+## 중간시험 안내
+- 시간: 10월 23일 오후 2시~3시
+- 장소: E323
+- 범위: 1주~6주 수업 (NodeJS intro, Arduino, Arduino-Node 연결)
+- 배점: 30 (총점의 30%)
 ## SW
 - [Arduino](https://www.arduino.cc/)
 - [Node.js](https://nodejs.org/ko/)
