@@ -7,6 +7,13 @@ Lecture on learning Arduino from scratch.
 - 범위: 1주~5주 수업 (교재 4장 FND까지)
 - 배점: 30 (총점의 30%)
 
+### 중간시험 결과
+- 평균: 16.8
+- 최고, 최저: 27, 8
+- 점수확인: 학사정보시스템
+
+---
+
 SW
 
 - [Arduino IDE](https://www.arduino.cc/)
