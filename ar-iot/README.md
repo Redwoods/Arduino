@@ -6,6 +6,12 @@ Lecture on learning Arduino from scratch to the advanced level in iot environmen
 - 장소: E323
 - 범위: 1주~6주 수업 (NodeJS intro, Arduino, Arduino-Node 연결)
 - 배점: 30 (총점의 30%)
+
+### 중간시험 결과
+- 평균: 16.8
+- 최고, 최저: 27, 8
+- 점수확인: 학사정보시스템
+
 ## SW
 - [Arduino](https://www.arduino.cc/)
 - [Node.js](https://nodejs.org/ko/)
