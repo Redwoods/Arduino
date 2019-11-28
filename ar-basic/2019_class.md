@@ -5,16 +5,16 @@
 - [AR03	구병준	8](https://github.com/GubyeongJun/ar03)
 - [AR04	김종민	4](https://github.com/ghs1472/ar04)
 - [AR05	박성철	9](https://github.com/parkseongcheol/ar05)
-- [AR06	이승현	6](https://github.com/penguinperformanceproject/ar06)
+- [AR06	이승현	6](https://github.com/penguinperformanceproject/ar06) # 
 - [AR07	이창호	4](https://github.com/lchho96/ar07)
 - AR08	변성현	9
-- [AR09	손성빈	11](https://github.com/ijseongbin/ar09-)
+- [AR09	손성빈	11](https://github.com/ijseongbin/ar09-) #
 - [AR10	안예찬	11](https://github.com/dksdpcks1/ar10)
 - [AR11	유종인	12](https://github.com/yujongin/ar11)
 - [AR12	이석민	5](https://github.com/Leeseokmin97/AR12)
 - [AR13	이주원	13](https://github.com/20161514/ar13)
 - [AR14	정재영	5](https://github.com/jaeyoung6179/AR14)
-- [AR15	차유신	13](https://github.com/Usin96/ar15) ###
+- [AR15	차유신	13](https://github.com/Usin96/ar15) #####
 - [AR16	하태성	12](https://github.com/gkxotjd12312/AR16)
 - [AR17	강현이	1](https://github.com/Hyeonyi9081/ar17)
 - [AR18 신종원	2](https://www.github.com/jonogo/ar18)
