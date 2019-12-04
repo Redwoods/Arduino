@@ -1,6 +1,26 @@
 # Arduino IoT
 Lecture on learning Arduino from scratch to the advanced level in iot environment.
 
+## 기말시험 안내
+1. 실기시험
+- 시간: 12월 11일 오후 2시~4시
+- 장소: E323
+- 범위: Arduino-Node 연결, MongoDB, Express client
+- 배점: 5 (총점의 5%)
+
+2. 필기시험
+- 시간: 12월 18일 오후 2시~3시
+- 장소: E323
+- 범위: Arduino-Node 연결, MongoDB, Express client, IoT 문서 데이터 관리
+- 배점: 25 (총점의 25%)
+
+### 기말시험 결과
+- 평균: 
+- 최고, 최저: 
+- 점수확인: 학사정보시스템
+
+---
+
 ## 중간시험 안내
 - 시간: 10월 23일 오후 2시~3시
 - 장소: E323
