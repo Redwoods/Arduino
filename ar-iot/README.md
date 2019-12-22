@@ -15,8 +15,8 @@ Lecture on learning Arduino from scratch to the advanced level in iot environmen
 - 배점: 25 (총점의 25%)
 
 ### 기말시험 결과
-- 평균: 
-- 최고, 최저: 
+- 평균: 19
+- 최고, 최저: 29, 9
 - 점수확인: 학사정보시스템
 
 ---
