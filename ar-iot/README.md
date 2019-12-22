@@ -14,7 +14,7 @@ Lecture on learning Arduino from scratch to the advanced level in iot environmen
 - 범위: Arduino-Node 연결, MongoDB, Express client, IoT 문서 데이터 관리
 - 배점: 25 (총점의 25%)
 
-### 기말시험 결과
+### 기말시험(필기) 결과
 - 평균: 19
 - 최고, 최저: 29, 9
 - 점수확인: 학사정보시스템
