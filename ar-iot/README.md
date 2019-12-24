@@ -48,7 +48,7 @@ Lecture on learning Arduino from scratch to the advanced level in iot environmen
 - [AA05 류재현](https://github.com/Inje-AA05/aa05) # # @@
 - [AA06 문민규](https://github.com/moonmingyu/aa06)
 - [AA07 박진석](https://github.com/rlfwo93/aa07) @ #
-- [AA08 이승협](https://github.com/mina0502/aa08) @@
+- [AA08 이승협](https://github.com/mina0502/aa08) @@@
 - [AA09 표혜성](https://github.com/prpp0000/aa09) # # 
 - [AA10 김다영](https://github.com/popo8579/aa10) @@
 - [AA11 성소진](https://github.com/tjdthwls17/aa11)
