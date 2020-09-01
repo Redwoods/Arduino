@@ -13,7 +13,7 @@ Lecture on learning Arduino from scratch to the advanced level in iot environmen
 
 # 2020 분반, 과제 및 평가
 
-* [1분반(수요일, 3학년)]()
-* [2분반(목요일, 2학년)]()
+* ## [1분반(수요일, 3학년)](https://github.com/Redwoods/Arduino/blob/master/ar-iot/AA_class_1_Wed.md)
+* ## [2분반(목요일, 2학년)](https://github.com/Redwoods/Arduino/blob/master/ar-iot/AA_class_2_Thu.md)
 
 
