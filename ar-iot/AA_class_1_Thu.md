@@ -1,7 +1,7 @@
 # 아두이노응용 1분반(목요일) 
 ## github 과제 제출 확인 및 평가 (#, *, @, @@)
 
-- [AA1-01: 강서현]()
+- [AA1-01: 강서현](https://github.com/tjgus226/aa1-01) *
 - [AA1-02: 강태민](https://github.com/Gangtaemin/aa1-02) *
 - [AA1-03: 김세은](https://github.com/thdnwn/aa1-03) *
 - [AA1-04: 여수민](https://github.com/yeo5578/aa1-04) *
