@@ -12,7 +12,7 @@
 - [AA1-09: 김민욱](https://github.com/poviea/aa1-09) *
 - [AA1-10: 김민성](https://github.com/aa-10/aa1-10) *
 - [AA1-11: 김민준]()
-- [AA1-12: 김인수]()
+- [AA1-12: 김인수](https://github.com/aa1-12/aa1-12) *
 - [AA1-13: 김현식](https://github.com/Khs98/aa1-13) *
 - [AA1-14: 장성운]()
 - [AA1-15: 전승진]()
