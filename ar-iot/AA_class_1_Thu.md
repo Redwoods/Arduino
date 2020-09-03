@@ -8,7 +8,7 @@
 - [AA1-05: 정영훈](https://github.com/jyhoon519/aa1-05) *
 - [AA1-06: 차혁준](https://github.com/chahyeokjun/AA1-06) *
 - [AA1-07: 하태헌](https://github.com/rnfrnfdl34/aa1-07) *
-- [AA1-08: 김경욱]()
+- [AA1-08: 김경욱](https://github.com/kimkyeongwook69/aa1-08) *
 - [AA1-09: 김민욱](https://github.com/poviea/aa1-09) *
 - [AA1-10: 김민성](https://github.com/aa-10/aa1-10) *
 - [AA1-11: 김민준]()
