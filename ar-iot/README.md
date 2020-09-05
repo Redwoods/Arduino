@@ -16,6 +16,6 @@ Lecture on learning Arduino from scratch to the advanced level in iot environmen
 * ## [2분반(수요일, 3학년)](https://github.com/Redwoods/Arduino/blob/master/ar-iot/AA_class_2_Wed.md)
 * ## [1분반(목요일, 2학년)](https://github.com/Redwoods/Arduino/blob/master/ar-iot/AA_class_1_Thu.md)
 
-## node crash
+## Internet crash due to tiny module of node.js
 * https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/
 
