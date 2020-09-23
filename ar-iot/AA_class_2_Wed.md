@@ -11,10 +11,10 @@
 - [AA2-08:	안예찬](https://github.com/dksdpcks1/aa2-08) * @
 - [AA2-09:	유종인](https://github.com/yujongin/aa2-09) * @@
 - [AA2-10:	이석민](https://github.com/leesm4909/AA2-10) * @
-- [AA2-11:	이정문](https://github.com/leejs8041/aa2-11-new) *
-- [AA2-12:	이주원](https://github.com/20161514/aa2-12) *
-- [AA2-13:	정재영](https://github.com/jaeyoung6179/aa2-13) *
-- [AA2-14:	하태성](https://github.com/gkxotjd12312/aa2-14) *
+- [AA2-11:	이정문](https://github.com/leejs8041/aa2-11-new) * @
+- [AA2-12:	이주원](https://github.com/20161514/aa2-12) * @
+- [AA2-13:	정재영](https://github.com/jaeyoung6179/aa2-13) * @@
+- [AA2-14:	하태성](https://github.com/gkxotjd12312/aa2-14) * 
 - [AA2-15:	김경미](https://github.com/kyungmi0120/aa2-15) *
 - [AA2-16:	김규년](https://github.com/kgn4746/aa2-16) *
 - [AA2-17:	김유빈](https://github.com/kybb0709/aa2-17) *
