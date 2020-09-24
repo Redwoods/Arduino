@@ -2,10 +2,10 @@
 ## github 과제 제출 확인 및 평가 (#, *, @, @@)
 
 - [AA1-01: 강서현](https://github.com/tjgus226/aa1-01) * @@
-- [AA1-02: 강태민](https://github.com/Gangtaemin/aa1-02) * @
+- [AA1-02: 강태민](https://github.com/Gangtaemin/aa1-02) * @@
 - [AA1-03: 김세은](https://github.com/thdnwn/aa1-03) * @@
 - [AA1-04: 여수민](https://github.com/yeo5578/aa1-04) * @@
-- [AA1-05: 정영훈](https://github.com/jyhoon519/aa1-05) * @
+- [AA1-05: 정영훈](https://github.com/jyhoon519/aa1-05) * @@
 - [AA1-06: 차혁준](https://github.com/chahyeokjun/AA1-06) * @@
 - [AA1-07: 하태헌](https://github.com/rnfrnfdl34/aa1-07) * @@
 - [AA1-08: 김경욱](https://github.com/kimkyeongwook69/aa1-08) * @@
