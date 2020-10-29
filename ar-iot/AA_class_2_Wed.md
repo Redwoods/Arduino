@@ -8,7 +8,7 @@
 - [AA2-05:	이승현](https://github.com/penguinperformanceproject/aa2-05) * @@ @ @ @
 - [AA2-06:	이창호](https://github.com/lchho96/AA2-06) * @@ @ @ @@
 - [AA2-07:	손성빈](https://github.com/ijseongbin/AA2-07) * @ @ # @
-- [AA2-08:	안예찬](https://github.com/dksdpcks1/aa2-08) * @ @@ @@
+- [AA2-08:	안예찬](https://github.com/dksdpcks1/aa2-08) * @ @@ @ @@
 - [AA2-09:	유종인](https://github.com/yujongin/aa2-09) * @@ @ @ @@
 - [AA2-10:	이석민](https://github.com/leesm4909/AA2-10) * @ @ @ @@
 - [AA2-11:	이정문](https://github.com/leejs8041/aa2-11-new) * @ @ @ @@
