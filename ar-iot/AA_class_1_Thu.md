@@ -13,7 +13,7 @@
 - [AA1-10: 김민성](https://github.com/aa-10/aa1-10) * @@ @ @ @@ @@
 - [AA1-12: 김인수](https://github.com/aa1-12/aa1-12) * @@ @ @ @@ @@
 - [AA1-13: 김현식](https://github.com/Khs98/aa1-13) * # @ @ @@ @@
-- [AA1-14: 장성운](https://github.com/SungUnJang/aa1-14) * @@ @ @ @@ @
+- [AA1-14: 장성운](https://github.com/SungUnJang/aa1-14) * @@ @ @ @@ @@
 - [AA1-15: 전승진](https://github.com/wjstmdwls/aa1-15) * @@ @ @ @ @@
 - [AA1-16: 정희철](https://github.com/JengHC/aa1-016) * @@ @ @ @@ @@
 - [AA1-17: 조동현](https://github.com/Jodonghyun/aa1-17) * @@ @ @ @@ @@
