@@ -1,0 +1,49 @@
+<!DOCTYPE html> 
+<head>  
+  <meta charset="utf-8">
+  <title>IoT example: Real time signal from Arduino</title> 
+  
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.1/socket.io.js"></script>  
+  <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.js"></script> -->
+  <style>body{padding:0;margin:30;background:#fff}</style>
+</head>
+
+<body>  <!-- style="width:100%;height:100%"> -->
+
+<h1 align="center"> IoT Signal from Arduino </h1>
+
+<h2 align="center"> Real-time Signals </h2>
+
+<hr>
+
+<h3 align="center"> on Time: <span id="time"> </span> </h3> 
+
+<h3 align="center"> Signal (temp, humi, lux) : <span id="data"> </span> </h3> 
+
+<hr>
+
+  <script>
+  /* JAVASCRIPT CODE GOES HERE */
+    var ctime = document.getElementById('time');
+    var cdata = document.getElementById('data');
+    
+    // Get message from network socket
+    var socket = io.connect('http://localhost:3000'); // port = 3000  
+    socket.on('connect', function () {
+        socket.on('message', function (msg) {
+            // message on Socket (TCP server)
+            // Check the console by F12 in Chrome browser
+            console.log(msg[0]); // mdata[0] => dStr
+            console.log(msg[1]); // mdata[1] => msg[1]
+            console.log(msg[2]);
+            console.log(msg[3]);
+            
+            // Display signal on web browser           
+            ctime.innerHTML = msg[0];
+            cdata.innerHTML = msg[1] + "," + msg[2] + "," + msg[3];
+        });
+    });    
+
+  </script>
+</body>
+</html>

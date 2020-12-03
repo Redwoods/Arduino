@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<!-- Plotly.js -->
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+	<h1>MongoDB database visualization by AA00</h1>
+	<hr>
+	<h2>Time series : Multi sensor data</h2>
+
+	<!-- Plotly chart will be drawn inside this DIV -->
+	<div id="myDiv" style="width: 900px;height: 600px"></div>
+	
+	<script>
+		<!-- JAVASCRIPT CODE GOES HERE -->
+
+		Plotly.d3.json("http://localhost:3030/iot", function(err, json){
+			//alert(json);
+			 alert(JSON.stringify(json));  // It works!!!
+			//alert(JSON.parse(eval(json));
+			if(err) throw err;
+
+			var date = [];
+			var temp = [];
+			var humi = [];
+			var lumi = [];
+			var jsonData = eval(JSON.stringify(json));
+			//alert(jsonData.length);
+			//alert(jsonData[2].luminosity);
+
+			for (var i = 0; i < jsonData.length; i++) {
+				date[i] = jsonData[i].date;
+				temp[i] = jsonData[i].temperature ;
+				humi[i] = jsonData[i].humidity;
+				lumi[i] = jsonData[i].luminosity;
+			    
+			}
+
+			//alert(date[5]);
+
+			var trace1 = {
+				type: "scatter",
+				mode: "lines",
+				name: 'Temperature',
+				x: date,
+				y: temp,
+				line: {color: '#fc1234'}
+			}
+			
+			var trace2 = {
+				type: "scatter",
+				mode: "lines",
+				name: 'Humidity',
+				x: date,
+				y: humi,
+				line: {color: '#3412fc'}
+			}
+			var trace3 = {
+				type: "scatter",
+				mode: "lines",
+				name: 'Luminosity',
+				x: date,
+				y: lumi,
+				line: {color: '#34fc12'}
+			}
+			var data = [trace1, trace2, trace3];
+
+			var layout = {
+				title: 'Temp vs. Humi vs. Lumi with rangeslider',
+				xaxis: {
+					autorange: true,
+					range: [date[0], date[date.length-1]],
+					rangeselector: {buttons: [
+						{
+							count: 1,
+							label: '1 hour',
+							step: 'hour',
+							stepmode: 'backward'
+						},
+						{
+							count: 6,
+							label: '6 hour',
+							step: 'hour',
+							stepmode: 'backward'
+						},
+						{
+							count: 24,
+							label: '1 day',
+							step: 'hour',
+							stepmode: 'backward'
+						},
+						{
+							count: 7,
+							label: '1 week',
+							step: 'day',
+							stepmode: 'backward'
+						},
+						{step: 'all'}
+						]},
+						rangeslider: {range: [date[0], date[date.length-1]]},
+						type: 'date'
+					},
+					yaxis: {
+						autorange: true,
+						range: [0, 300],
+						type: 'linear'
+					}
+				};
+
+
+				Plotly.newPlot('myDiv', data, layout);
+			})		
+
+		</script>
+
+	</body>
+</html>	
+

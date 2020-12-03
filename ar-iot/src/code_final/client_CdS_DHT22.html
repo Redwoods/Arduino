@@ -1,0 +1,303 @@
+<!DOCTYPE html> 
+<head>  
+  <meta charset="utf-8">
+  <title>plotly.js Project: Real time signals from multiple sensors</title> 
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.1/socket.io.js"></script>
+  <script src="gauge.min.js"></script>
+  <style>body{padding:0;margin:30;background:#fff}</style>
+</head>
+
+<body>  <!-- style="width:100%;height:100%"> -->
+    <!-- Plotly chart will be drawn inside this DIV -->
+    <h1 align="center"> Real-time Weather Station from sensors </h1>
+    <!-- 1st gauge -->
+    <div align="center">
+        <canvas id="gauge1"> </canvas>  
+        <!-- 2nd gauge -->
+        <canvas id="gauge2"> </canvas>
+        <!-- 3rd gauge -->
+        <canvas id="gauge3"> </canvas>
+    </div>
+
+    <h3 align="center"> on Time: <span id="time"> </span> </h3> 
+    <div id="myDiv"></div>
+    <hr>
+
+    <script>
+      /* JAVASCRIPT CODE GOES HERE */
+      var streamPlot = document.getElementById('myDiv');
+      var ctime = document.getElementById('time');
+      var tArray = [], // time of data arrival
+        y1Track = [], // value of sensor 1 : temperature
+        y2Track = [], // value of sensor 2 : humidity
+        y3Track = [], // value of sensor 3 : Luminosity
+        numPts = 50, // number of data points in x-axis                
+        dtda = [],  // 1 x 4 array : [date, data1, data2, data3] from sensors
+        preX = -1,
+        preY = -1,
+        preZ = -1,
+        initFlag = true;
+
+    var socket = io.connect('http://localhost:3000'); // port = 3000  
+    socket.on('connect', function () {
+        socket.on('message', function (msg) {
+            // initial plot
+            if(msg[0]!='' && initFlag){
+                dtda[0]=msg[0];
+                dtda[1]=parseFloat(msg[1]);  // temperature
+                dtda[2]=parseFloat(msg[2]);  // Humidity
+                dtda[3]=parseInt(msg[3]);  // Luminosity
+                init();
+                initFlag=false;
+            }
+            // console.log(msg[0]);
+            // console.log(parseFloat(msg[1]) + ', ' + parseFloat(msg[2]));
+            // Convert value to numbers
+            dtda[0]=msg[0];
+            dtda[1] = parseFloat(msg[1]); 
+            dtda[2] = parseFloat(msg[2]);
+            dtda[3] = parseInt(msg[3]);
+
+            // Only when any of temperature or Luminosity is different from the previous one, the screen is redrawed.
+            if (dtda[1] != preX || dtda[2] != preY || dtda[3] != preZ) {  // any change?
+                preX = dtda[1];  
+                preY = dtda[2];
+                preZ = dtda[3];
+                                
+                // when new data is coming, keep on streaming            
+                ctime.innerHTML = dtda[0];
+                gauge_temp.setValue(dtda[1])  // temp gauge
+                gauge_humi.setValue(dtda[2]); // humi gauge
+                gauge_lux.setValue(dtda[3]);  // lux gauge
+                //nextPt();
+                tArray = tArray.concat(dtda[0]);
+                tArray.splice(0, 1);  // remove the oldest data
+                y1Track = y1Track.concat(dtda[1]);
+                y1Track.splice(0, 1); // remove the oldest data
+                y2Track = y2Track.concat(dtda[2]);
+                y2Track.splice(0, 1);            
+                y3Track = y3Track.concat(dtda[3]);
+                y3Track.splice(0, 1);
+
+                var update = {
+                    x:  [tArray, tArray, tArray],
+                    y:  [y1Track, y2Track, y3Track]
+                }
+
+                Plotly.update(streamPlot, update);
+            }
+
+      });
+    }); 
+
+    function init() {  // initial screen ()
+        // starting point : first data (temp, lux)
+        for ( i = 0; i < numPts; i++) {
+            tArray.push(dtda[0]);  // date 
+            y1Track.push(dtda[1]);  // sensor 1 (temp)
+            y2Track.push(dtda[2]);  // sensor 2 (humi)
+            y3Track.push(dtda[3]);  // sensor 3 (lux)
+        }
+
+        Plotly.newPlot(streamPlot, data, layout);
+    }
+    
+    // data
+    var data = [{
+        x : tArray,
+        y : y1Track,
+        name : 'temperature',
+        mode: "markers+lines",  // "lines+markers"
+        line: {
+            color: "#1f77b4", 
+            width: 1
+        }, 
+        marker: {
+            color: "rgb(255, 0, 0)", 
+            size: 6, 
+            line: {
+              color: "black", 
+              width: 0.5
+          }
+      }
+  }, {
+    x : tArray,
+    y : y2Track,
+    name : 'humidity',
+    xaxis: 'x2',
+    yaxis : 'y2',
+        mode: "markers+lines",  // "lines+markers"
+        line: {
+            color: "#1f77b4", 
+            width: 1
+        }, 
+        marker: {
+            color: "rgb(0, 0, 255)", 
+            size: 6, 
+            line: {
+              color: "black", 
+              width: 0.5
+          }
+      }
+  }, {
+    x : tArray,
+    y : y3Track,
+    name : 'luminosity',
+    xaxis: 'x3',
+    yaxis : 'y3',
+        mode: "markers+lines",  // "lines+markers"
+        line: {
+            color: "#1f77b4", 
+            width: 1
+        }, 
+        marker: {
+            color: "rgb(0, 255, 0)", 
+            size: 6, 
+            line: {
+              color: "black", 
+              width: 0.5
+          }
+      }
+  }];
+
+  var layout = {
+    xaxis : {
+        title : 'time',
+        domain : [0, 1]
+    },
+    yaxis : {
+        title : 'temp (°C)',
+        domain : [0, 0.3],
+        range : [-30, 50]
+    },
+    xaxis2 : {
+        title : '',
+        domain : [0, 1],
+        position : 0.35,
+        showticklabels: false
+    },
+    yaxis2 : {
+        title : 'humi (%)',
+        domain : [0.35, 0.65],
+        range : [0, 100]
+    },
+    xaxis3 : {
+        title : '',
+        domain : [0, 1],
+        position : 0.7,
+        showticklabels: false
+    },
+    yaxis3 : {
+        title : 'lumi (lux)',
+        domain : [0.7, 1],
+        range : [0, 500]
+    }
+};
+
+    // gauge configuration
+    var gauge_temp = new Gauge({
+        renderTo    : 'gauge1',
+        width       : 240,
+        height      : 240,
+        glow        : true,
+        units       : '°C',
+        valueFormat : { int : 2, dec : 1 },
+        title       : "Temperature",
+        minValue    : -30,
+        maxValue    : 50,
+        majorTicks  : ['-30','-20','-10','0','10','20','30','40','50'],
+        minorTicks  : 10,
+        strokeTicks : false,
+        highlights  : [
+        { from : -30,   to : -20, color : 'rgba(0, 0, 255, 1)' },
+        { from : -20,   to : -10, color : 'rgba(0, 0, 255, .5)' },
+        { from : -10, to : 0, color : 'rgba(0, 0, 255, .25)' },
+        { from : 0,   to : 10, color : 'rgba(0, 255, 0, .1)' },
+        { from : 10, to : 20, color : 'rgba(0, 255, 0, .25)' },
+        { from : 20, to : 30, color : 'rgba(255, 0,  0, .25)' },
+        { from : 30, to : 40, color : 'rgba(255, 0,  0, .5)' },
+        { from : 40, to : 50, color : 'rgba(255, 0,  0, 1)' }
+        ],
+        colors      : {
+            plate      : '#fff',
+            majorTicks : '#000',
+            minorTicks : '#444',
+            title      : '#000',
+            units      : '#f00',
+            numbers    : '#777',
+            needle     : { start : 'rgba(240, 128, 128, 1)', end : 'rgba(255, 160, 122, .9)' }
+        }
+    });
+
+    gauge_temp.draw();
+
+    var gauge_humi = new Gauge({
+        renderTo    : 'gauge2',
+        width       : 240,
+        height      : 240,
+        glow        : true,
+        units       : '%',
+        valueFormat : { int : 2, dec : 1 },
+        title       : "Humidity",
+        minValue    : 0,
+        maxValue    : 100,
+        majorTicks  : ['0','20','40','60','80','100'],
+        minorTicks  : 10,
+        strokeTicks : false,
+        highlights  : [        
+        { from : 0, to : 20, color : '#aaa' },
+        { from : 20, to : 40, color : '#ccc' },
+        { from : 40, to : 60, color : '#ddd' },
+        { from : 60, to : 80, color : '#eee' },
+        { from : 80, to : 100, color : '#fff' }
+        ],
+        colors      : {
+            plate      : '#1f77b4',
+            majorTicks : '#f5f5f5',
+            minorTicks : '#aaa',
+            title      : '#fff',
+            units      : '#ccc',
+            numbers    : '#eee',
+            needle     : { start : 'rgba(240, 128, 128, 1)', end : 'rgba(255, 160, 122, .9)' }
+        }
+    });
+
+    gauge_humi.draw();
+
+    var gauge_lux = new Gauge({
+        renderTo    : 'gauge3',
+        width       : 240,
+        height      : 240,
+        glow        : true,
+        units       : 'lux',
+        valueFormat : { int : 2, dec : 0 },
+        title       : "Luminosity",
+        minValue    : 0,
+        maxValue    : 500,  // new
+        majorTicks  : ['0','100','200','300','400','500'],
+        minorTicks  : 50,
+        strokeTicks : false,
+        highlights  : [
+        { from : 0,   to : 100, color : '#aaa' },
+        { from : 100, to : 200, color : '#ccc' },
+        { from : 200, to : 300, color : '#ddd' },
+        { from : 300, to : 400, color : '#eee' },
+        { from : 400, to : 500, color : '#fff' }
+        ],
+        colors      : {
+            plate      : '#555',
+            majorTicks : '#f5f5f5',
+            minorTicks : '#aaa',
+            title      : '#fff',
+            units      : '#ccc',
+            numbers    : '#eee',
+            needle     : { start : 'rgba(240, 128, 128, 1)', end : 'rgba(255, 160, 122, .9)' }
+        }
+    });
+
+    gauge_lux.draw();
+
+</script>
+</body>
+</html>
