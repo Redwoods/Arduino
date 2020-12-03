@@ -1,6 +1,8 @@
 ## 2020 final exam. resource
 
-- Study 2 js and 3 html
+- Study the final codes
+  - 2 js
+  - 3 html 
 
 ### MongoDB
 - db iot에서 최근 데이터 1000개를 csv 파일 (iot_s1000.csv)로 저장할 때의 명령은?
