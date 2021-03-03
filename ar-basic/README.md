@@ -11,7 +11,7 @@ SW
 
 HW
 
-- [High-level kit for Arduino](http://arduinostory.com/goods/goods_view.php?goodsNo=1000000306)
+- [아두이노 레벨업키트(골드)](https://www.devicemart.co.kr/goods/view?no=12170416)
 
 ---
 
