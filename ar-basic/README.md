@@ -22,7 +22,7 @@ HW
 - [AR02 김현서]() &
 - [AR03 박영훈](https://github.com/hunypark/ar03) *
 - [AR04 박윤호](https://github.com/yoonho0624/ar04) *
-- [AR05 서명진]() &
+- [AR05 서명진](https://github.com/smj3343/ar05) *
 - [AR06 성은지](https://github.com/eun-jiii/ar06) *
 - [AR07 손윤우](https://github.com/yunuu/AR07) *
 - [AR08 신승철](https://github.com/kdkh96/AR08) *
