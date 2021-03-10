@@ -19,7 +19,7 @@ HW
 * @: 우수, *: 제출, &: 미제출
 
 - [AR01 김준수](https://github.com/96wnstn/AR01) *
-- [AR02 김현서]() &
+- [AR02 김현서](https://github.com/HyunSeo0928/ar02) *
 - [AR03 박영훈](https://github.com/hunypark/ar03) *
 - [AR04 박윤호](https://github.com/yoonho0624/ar04) *
 - [AR05 서명진](https://github.com/smj3343/ar05) *
