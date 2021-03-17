@@ -29,7 +29,7 @@ HW
 - [AR09 오세윤](https://github.com/chilledlife/ar09) * @
 - [AR10 오세현]() &
 - [AR11 우승철](https://github.com/woo-seung-cheol/ar11) * &
-- [AR12 윤현석](https://github.com/yhs11116/AR12) * &
+- [AR12 윤현석](https://github.com/yhs11116/AR12) * @
 - [AR13 이예주](https://github.com/JJangyeJJangju/ar13) * @
 - [AR14 최민석](https://github.com/cmsinje/AR14) * &
 - [AR15 강지환](https://github.com/qkqh9635/ar15) * *
@@ -37,7 +37,7 @@ HW
 - [AR17 고태승](https://github.com/xotmddlsp2/AR17/) * @
 - [AR18 김성환](https://github.com/Seong-Hwan99/AR-18) * @
 - [AR19 이정호](https://github.com/LOLMGs/AR19) * @
-- [AR20 장원일](https://github.com/jangeleven/AR20) * &
+- [AR20 장원일](https://github.com/jangeleven/AR20) * @
 - [AR21 장태호](https://github.com/HINEET/AR21) * @
 - [AR22 정지원](https://github.com/lalalalalra/AR22) * @
 - [AR23 진우태](https://github.com/Wjkdj/AR23) * &
