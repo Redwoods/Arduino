@@ -27,7 +27,7 @@ HW
 - [AR07 손윤우](https://github.com/yunuu/AR07) * @
 - [AR08 신승철](https://github.com/kdkh96/AR08) * &
 - [AR09 오세윤](https://github.com/chilledlife/ar09) * @
-- [AR10 오세현](https://github.com/chilledlife/Ohsaehyeon/AR10) &
+- [AR10 오세현](https://github.com/Ohsaehyeon/AR10) &
 - [AR11 우승철](https://github.com/woo-seung-cheol/ar11) * &
 - [AR12 윤현석](https://github.com/yhs11116/AR12) * @
 - [AR13 이예주](https://github.com/JJangyeJJangju/ar13) * @
