@@ -18,17 +18,17 @@ HW
 # 2021 과제 및 평가 (github Repo)
 * @: 우수, *: 제출, &: 미제출
 
-- [AR01 김준수](https://github.com/96wnstn/AR01) * * * *
-- [AR02 김현서](https://github.com/HyunSeo0928/ar02) * * @ &
-- [AR03 박영훈](https://github.com/hunypark/ar03) * & & *
-- [AR04 박윤호](https://github.com/yoonho0624/ar04) * @ @ *
-- [AR05 서명진](https://github.com/smj3343/ar05) * @ @ *
-- [AR06 성은지](https://github.com/eun-jiii/ar06) * @ * *
-- [AR07 손윤우](https://github.com/yunuu/AR07) * @ * *
-- [AR08 신승철](https://github.com/kdkh96/AR08) * & * *
-- [AR09 오세윤](https://github.com/chilledlife/ar09) * @ * *
-- [AR10 오세현](https://github.com/Ohsaehyeon/AR10) * & & *
-- [AR11 우승철](https://github.com/woo-seung-cheol/ar11) * & * *
+- [AR01 김준수](https://github.com/96wnstn/AR01) * * * * &
+- [AR02 김현서](https://github.com/HyunSeo0928/ar02) * * @ & *
+- [AR03 박영훈](https://github.com/hunypark/ar03) * & & * *
+- [AR04 박윤호](https://github.com/yoonho0624/ar04) * @ @ * *
+- [AR05 서명진](https://github.com/smj3343/ar05) * @ @ * *
+- [AR06 성은지](https://github.com/eun-jiii/ar06) * @ * * &
+- [AR07 손윤우](https://github.com/yunuu/AR07) * @ * * *
+- [AR08 신승철](https://github.com/kdkh96/AR08) * & * * *
+- [AR09 오세윤](https://github.com/chilledlife/ar09) * @ * * *
+- [AR10 오세현](https://github.com/Ohsaehyeon/AR10) * & & * *
+- [AR11 우승철](https://github.com/woo-seung-cheol/ar11) * & * * &
 - [AR12 윤현석](https://github.com/yhs11116/AR12) * @ @ * @
 - [AR13 이예주](https://github.com/JJangyeJJangju/ar13) * @ * *
 - [AR14 최민석](https://github.com/cmsinje/AR14) * * @ *
