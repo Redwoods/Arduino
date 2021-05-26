@@ -41,7 +41,7 @@ HW
 - [AR21 장태호](https://github.com/HINEET/AR21) * @ @ * @ * m@@ * @
 - [AR22 정지원](https://github.com/lalalalalra/AR22) * @ @ * * * m@ @ @
 - [AR23 진우태](https://github.com/Wjkdj/AR23) * & @ * * * m@@ @ @
-- [AR24 박종원](https://github.com/monegit/arduino-prj) * @ @ * @ * m@@ @ @
+- [AR24 박종원](https://github.com/monegit/arduino-prj) * @ @ * @ * m@@ @ *
 
 ---
 
