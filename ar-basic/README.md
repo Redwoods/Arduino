@@ -23,7 +23,7 @@ HW
 - [AR03 박영훈](https://github.com/hunypark/ar03) * & & * * & m* @ & & * *
 - [AR04 박윤호](https://github.com/yoonho0624/ar04) * @ @ * * * m* @ * * * @
 - [AR05 서명진](https://github.com/smj3343/ar05) * @ @ * * * m@ * @ * * *
-- [AR06 성은지](https://github.com/eun-jiii/ar06) * @ * * & * m* * * & * *
+- [AR06 성은지](https://github.com/eun-jiii/ar06) * @ * * & * m* * * & * &
 - [AR07 손윤우](https://github.com/yunuu/AR07) * @ * * * * m* @ * * * @
 - [AR08 신승철](https://github.com/kdkh96/AR08) * * * * * * m@ * * * @ @
 - [AR09 오세윤](https://github.com/chilledlife/ar09) * @ * * * * m* * & * & @
