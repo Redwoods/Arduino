@@ -11,11 +11,33 @@ Lecture on learning Arduino from scratch to the advanced level in iot environmen
 - [Google colab](https://colab.research.google.com/)
 ---
 
-# 2020 분반, 과제 및 평가
+# github 과제 제출 확인 및 평가 (#, *, @, @@)
+- [AA01	김준수]
+- [AA02	김현서]
+- [AA03	박영훈]
+- [AA04	박윤호]
+- [AA05	성은지]
+- [AA06	손윤우]
+- [AA07	오세윤]
+- [AA08	우승철]
+- [AA09	윤현석]
+- [AA10	이예주]
+- [AA11	강지환]
+- [AA12	성인제]
+- [AA13	조재윤]
+- [AA14	고태승]
+- [AA15	이한글]
+- [AA16	장세진]
+- [AA17	장태호]
+- [AA18	정지원]
+- [AA19	진우태]
+- [AA20	황혁준]
+- [AA21	장이제]
+- [AA22	박상현]
+- [AA23	정은성]
+- [AA24	김경영]
 
-* ## [2분반(수요일, 3학년)](https://github.com/Redwoods/Arduino/blob/master/ar-iot/AA_class_2_Wed.md)
-* ## [1분반(목요일, 2학년)](https://github.com/Redwoods/Arduino/blob/master/ar-iot/AA_class_1_Thu.md)
-
+---
 ## Internet crash due to tiny module of node.js
 * https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/
 
