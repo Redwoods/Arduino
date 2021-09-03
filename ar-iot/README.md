@@ -12,7 +12,7 @@
 
 # github 과제 제출 확인 및 평가 (#, *, @, @@)
 - [AA01	김준수](http://github.com/96wnstn/AA01)
-- [AA02	김현서]
+- [AA02	김현서](https://github.com/HyunSeo0928/AA02)
 - [AA03	박영훈]
 - [AA04	박윤호]
 - [AA05	성은지]
