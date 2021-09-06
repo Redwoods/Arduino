@@ -21,7 +21,7 @@
 - [AA08	우승철]
 - [AA09	윤현석](https://github.com/yhs11116/AA09)
 - [AA10	이예주](https://github.com/JJangyeJJangju/AA10)
-- [AA11	강지환]
+- [AA11	강지환](https://github.com/qkqh9635/aa11)
 - [AA12	성인제](https://github.com/nsa32300/AA12)
 - [AA13	조재윤]
 - [AA14	고태승](https://github.com/xotmddlsp2/AA14)
