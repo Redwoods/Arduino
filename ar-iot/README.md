@@ -18,7 +18,7 @@
 - [AA05	성은지]
 - [AA06	손윤우]
 - [AA07	오세윤]
-- [AA08	우승철]
+- [AA08	우승철](https://github.com/woo-seung-cheol/AA08)
 - [AA09	윤현석](https://github.com/yhs11116/AA09)
 - [AA10	이예주](https://github.com/JJangyeJJangju/AA10)
 - [AA11	강지환](https://github.com/qkqh9635/aa11)
