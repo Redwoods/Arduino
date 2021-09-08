@@ -15,8 +15,8 @@
 - [AA02	김현서](https://github.com/HyunSeo0928/AA02)
 - [AA03	박영훈]
 - [AA04	박윤호]
-- [AA05	성은지]
-- [AA06	손윤우]
+- [AA05	성은지](https://github.com/eun-jiii/AA05)
+- [AA06	손윤우](https://github.com/yunuu/AA06)
 - [AA07	오세윤](https://github.com/chilledlife/AA07)
 - [AA08	우승철](https://github.com/woo-seung-cheol/AA08)
 - [AA09	윤현석](https://github.com/yhs11116/AA09)
