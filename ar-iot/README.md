@@ -30,7 +30,7 @@
 - [AA17	장태호](https://github.com/HINEET/AA17) * * * * M@@@ @@ @@
 - [AA18	정지원](https://github.com/lalalalalra/AA18) * * * * M@@/2 @ @@/2
 - [AA19	진우태](https://github.com/Wjkdj/AA19) * * * * M@@/2 # @@/2
-- [AA20	황혁준](https://github.com/FL08/aa20) * * * * M@@@/2 @@/2 @ @@
+- [AA20	황혁준](https://github.com/FL08/aa20) * * * * M@@@/2 @@/2 @@
 - [AA22	박상현](https://github.com/Endien96/AA22) * * * * M@@@ @@ @@
 - [AA23	정은성](https://github.com/memory98/aa23) * * * * M@@@/2 @@ @@
 - [AA24	김경영](https://github.com/IjuHM17/aa24) * * * #? M@@ * @@/2
