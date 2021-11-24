@@ -16,7 +16,7 @@
 - [AA03	박영훈] # # # # M* # #
 - [AA04	박윤호](https://github.com/yoonho0624/aa04) * * * # M* @@/2 #
 - [AA05	성은지](https://github.com/eun-jiii/AA05) * * * * M* * #
-- [AA06	손윤우](https://github.com/yunuu/AA06) * * * * M@@  @ #
+- [AA06	손윤우](https://github.com/yunuu/AA06) * * * * M@@  @ *
 - [AA07	오세윤](https://github.com/chilledlife/AA07) * * # * M* # #
 - [AA08	우승철](https://github.com/woo-seung-cheol/AA08) # # # # M* # #
 - [AA09	윤현석](https://github.com/yhs11116/AA09) * * * * M@@@ @ @@/2
