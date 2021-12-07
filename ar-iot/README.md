@@ -23,17 +23,17 @@
 - [AA10	이예주](https://github.com/JJangyeJJangju/AA10) # # * # M* * # # @
 - [AA11	강지환](https://github.com/qkqh9635/aa11) # * * * M@@ @@/2 # @@ @
 - [AA12	성인제](https://github.com/nsa32300/AA12) * * * * M# @@ @ # @
-- [AA13	조재윤] # # # # M# # # #
-- [AA14	고태승](https://github.com/xotmddlsp2/AA14) * * * * M@@/2 @ @ @
-- [AA15	이한글](https://github.com/hangle9449/aa15) * * * * M@@ @@ @@ @@/2
-- [AA16	장세진](https://github.com/sejin573/aa16) * * * * M@@ @ @@/2 @/2
-- [AA17	장태호](https://github.com/HINEET/AA17) * * * * M@@@ @@ @@ @@
-- [AA18	정지원](https://github.com/lalalalalra/AA18) * * * * M@@/2 @ @@/2 @
-- [AA19	진우태](https://github.com/Wjkdj/AA19) * * * * M@@/2 # @@/2 @
-- [AA20	황혁준](https://github.com/FL08/aa20) * * * * M@@@/2 @@/2 @@ @@
-- [AA22	박상현](https://github.com/Endien96/AA22) * * * * M@@@ @@ @@ @@
-- [AA23	정은성](https://github.com/memory98/aa23) * * * * M@@@/2 @@ @@ @@
-- [AA24	김경영](https://github.com/IjuHM17/aa24) * * * #? M@@ * @@/2 @/2
+- [AA13	조재윤] # # # # M# # # # #
+- [AA14	고태승](https://github.com/xotmddlsp2/AA14) * * * * M@@/2 @ @ @ @
+- [AA15	이한글](https://github.com/hangle9449/aa15) * * * * M@@ @@ @@ @@/2 @
+- [AA16	장세진](https://github.com/sejin573/aa16) * * * * M@@ @ @@/2 @/2 @
+- [AA17	장태호](https://github.com/HINEET/AA17) * * * * M@@@ @@ @@ @@ @
+- [AA18	정지원](https://github.com/lalalalalra/AA18) * * * * M@@/2 @ @@/2 @ @
+- [AA19	진우태](https://github.com/Wjkdj/AA19) * * * * M@@/2 # @@/2 @ @
+- [AA20	황혁준](https://github.com/FL08/aa20) * * * * M@@@/2 @@/2 @@ @@ @
+- [AA22	박상현](https://github.com/Endien96/AA22) * * * * M@@@ @@ @@ @@ @
+- [AA23	정은성](https://github.com/memory98/aa23) * * * * M@@@/2 @@ @@ @@ @
+- [AA24	김경영](https://github.com/IjuHM17/aa24) * * * #? M@@ * @@/2 @/2 @
 
 ---
 ## Internet crash due to tiny module of node.js
