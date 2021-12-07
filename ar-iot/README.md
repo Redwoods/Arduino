@@ -11,18 +11,18 @@
 ---
 
 # github 과제 제출 확인 및 평가 (#, *, @, @@)
-- [AA01	김준수](http://github.com/96wnstn/AA01) * * # * M* @ @ @/2
-- [AA02	김현서](https://github.com/HyunSeo0928/AA02) # # # # M# # # #
-- [AA03	박영훈] # # # # M* # # *
-- [AA04	박윤호](https://github.com/yoonho0624/aa04) * * * # M* @@/2 # #
-- [AA05	성은지](https://github.com/eun-jiii/AA05) * * * * M* * # *
-- [AA06	손윤우](https://github.com/yunuu/AA06) * * * * M@@  @ * #
-- [AA07	오세윤](https://github.com/chilledlife/AA07) * * # * M* # # #
-- [AA08	우승철](https://github.com/woo-seung-cheol/AA08) # # # # M* # # #
-- [AA09	윤현석](https://github.com/yhs11116/AA09) * * * * M@@@ @ @@/2 @@/2
-- [AA10	이예주](https://github.com/JJangyeJJangju/AA10) # # * # M* * # #
-- [AA11	강지환](https://github.com/qkqh9635/aa11) # * * * M@@ @@/2 # @@
-- [AA12	성인제](https://github.com/nsa32300/AA12) * * * * M# @@ @ #
+- [AA01	김준수](http://github.com/96wnstn/AA01) * * # * M* @ @ @/2 @
+- [AA02	김현서](https://github.com/HyunSeo0928/AA02) # # # # M# # # # #
+- [AA03	박영훈] # # # # M* # # * #
+- [AA04	박윤호](https://github.com/yoonho0624/aa04) * * * # M* @@/2 # # #
+- [AA05	성은지](https://github.com/eun-jiii/AA05) * * * * M* * # * @
+- [AA06	손윤우](https://github.com/yunuu/AA06) * * * * M@@  @ * # #
+- [AA07	오세윤](https://github.com/chilledlife/AA07) * * # * M* # # # #
+- [AA08	우승철](https://github.com/woo-seung-cheol/AA08) # # # # M* # # # #
+- [AA09	윤현석](https://github.com/yhs11116/AA09) * * * * M@@@ @ @@/2 @@/2 *
+- [AA10	이예주](https://github.com/JJangyeJJangju/AA10) # # * # M* * # # @
+- [AA11	강지환](https://github.com/qkqh9635/aa11) # * * * M@@ @@/2 # @@ @
+- [AA12	성인제](https://github.com/nsa32300/AA12) * * * * M# @@ @ # @
 - [AA13	조재윤] # # # # M# # # #
 - [AA14	고태승](https://github.com/xotmddlsp2/AA14) * * * * M@@/2 @ @ @
 - [AA15	이한글](https://github.com/hangle9449/aa15) * * * * M@@ @@ @@ @@/2
