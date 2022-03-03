@@ -39,8 +39,6 @@ HW
 - [AR20 이한글]
 - [AR21 황혁준](https://github.com/FL08/ar21)
 - [AR22 김동영]
-- [AR23 ]
-- [AR24 ]
 
 ---
 
