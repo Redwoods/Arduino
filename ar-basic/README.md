@@ -21,7 +21,7 @@ HW
 - [AR02 유석진]
 - [AR03 김기덕](https://github.com/DDUCKI/AR03)
 - [AR04 강대진]
-- [AR05 김성우]
+- [AR05 김성우](https://github.com/Gukdoli/AR05)
 - [AR06 김창연](https://github.com/ckddus/AR06)
 - [AR07 김창욱](https://github.com/HM0007/AR07)
 - [AR08 김태화](https://github.com/TAaHwa/AR08-)
