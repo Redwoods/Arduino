@@ -38,7 +38,7 @@ HW
 - [AR19 정희서](https://github.com/HiSeoJeong/AR19)
 - [AR20 이한글](https://github.com/hangle9449/ar-20)
 - [AR21 황혁준](https://github.com/FL08/ar21)
-- [AR22 김동영]
+- [AR22 김동영](https://github.com/badaral/AR22)
 
 ---
 
