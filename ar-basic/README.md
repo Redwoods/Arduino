@@ -20,7 +20,7 @@ HW
 - [AR01 김정헌](https://github.com/jhkedwardkim/AR01)
 - [AR02 ***]
 - [AR03 김기덕](https://github.com/DDUCKI/AR03)
-- [AR04 강대진]
+- [AR04 강대진](https://github.com/ijdaejin/AR04)
 - [AR05 김성우](https://github.com/Gukdoli/AR05)
 - [AR06 김창연](https://github.com/ckddus/AR06)
 - [AR07 김창욱](https://github.com/HM0007/AR07)
