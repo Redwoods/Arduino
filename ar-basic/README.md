@@ -35,10 +35,10 @@ HW
 - [AR16 이현준](https://github.com/junlee00/AR16) @ @ * *
 - [AR17 임태형](https://github.com/vmvvmvvmv/AR17) @ * * *
 - [AR18 정동현](https://github.com/hm18donghyun/AR18) @ @ * *
-- [AR19 정희서](https://github.com/HiSeoJeong/AR19) # @ * *
+- [AR19 정희서](https://github.com/HiSeoJeong/AR19) # @ * #
 - [AR20 이한글](https://github.com/hangle9449/ar-20) @ * * *
 - [AR21 황혁준](https://github.com/FL08/ar21) * * * *
-- [AR22 김동영](https://github.com/badaral/AR22) @ # # *
+- [AR22 김동영](https://github.com/badaral/AR22) @ # # #
 
 ---
 
