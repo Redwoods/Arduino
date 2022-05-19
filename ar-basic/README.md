@@ -34,7 +34,7 @@ HW
 - [AR15 이준희](https://github.com/LJunHee/AR15) @ * */2 * * M@@ @ @ @
 - [AR16 이현준](https://github.com/junlee00/AR16) @ @ * * * M@@@/2 @/2 @ #
 - [AR17 임태형](https://github.com/vmvvmvvmv/AR17) @ * * * * M@@ @ @ @
-- [AR18 정동현](https://github.com/hm18donghyun/AR18) @ @ * * * M@@ @/2 @
+- [AR18 정동현](https://github.com/hm18donghyun/AR18) @ @ * * * M@@ @/2 @ #
 - [AR19 정희서](https://github.com/HiSeoJeong/AR19) # @ * # * M# # # #
 - [AR20 이한글](https://github.com/hangle9449/ar-20) @ * * * * M@ @ @ *
 - [AR21 황혁준](https://github.com/FL08/ar21) * * * * * M@ @ @ *
