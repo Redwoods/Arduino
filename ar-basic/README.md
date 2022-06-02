@@ -23,7 +23,7 @@ HW
 - [AR04 강대진](https://github.com/ijdaejin/AR04) @ @ * * * M@@@/2 # @ @ @/2 @
 - [AR05 김성우](https://github.com/Gukdoli/AR05) @ @ * * * M@@@/2 @ @ @ @ @
 - [AR06 김창연](https://github.com/ckddus/AR06) @ @ * * * M@@@ @ @ @/2 @ @
-- [AR07 김창욱](https://github.com/HM0007/AR07) * @ * * * M# # @ # # #
+- [AR07 김창욱](https://github.com/HM0007/AR07) * @ * * * M# # @ # * *
 - [AR08 김태화](https://github.com/TAaHwa/AR08-) @ @ * * * M@@ @/2 @ @/2 @/2 @/2
 - [AR09 박세훈](https://github.com/uoooyas/AR09) @ @ * * * M@@@/2 @ @ @/2 @ @/2
 - [AR10 박신영](https://github.com/zachpaul7/AR10) @ @ * * * M@@@ @ @ @/2 @ @
