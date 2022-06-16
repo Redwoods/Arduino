@@ -29,7 +29,7 @@ HW
 - [AR10 박신영](https://github.com/zachpaul7/AR10) @ @ * * * M@@@ @ @ @/2 @ @ @ @ P@@@
 - [AR11 박제홍](http://github.com/qkrwpghd27/AR11) @ @ * * * M@@@/2 @ @ @ @/2 @ @ @ P@@/2
 - [AR12 이승무](https://github.com/LSeungMOO/AR12) @ * * * * M@/2 @/2 @ @ @/2 @/2 * @ P
-- [AR13 이승준](https://github.com/q1w2e3r4god/AR13) @ * * * * M@@ @ @ @ @ @ @ @ P@@
+- [AR13 이승준](https://github.com/q1w2e3r4god/AR13) @ * * * * M@@ @ @ @ @ @ @ @ P@@@/2
 - [AR14 이재하](https://github.com/wogk0012/AR14) @ @ * * * M@@@/2 # # # @/2 * @ # P@
 - [AR15 이준희](https://github.com/LJunHee/AR15) @ * */2 * * M@@ @ @ @ @ @ @ @ P@@@/2
 - [AR16 이현준](https://github.com/junlee00/AR16) @ @ * * * M@@@/2 @/2 @ # @/2 @ @ @ P@@/2
