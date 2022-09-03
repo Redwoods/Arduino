@@ -12,10 +12,10 @@
 
 # github 과제 제출 확인 및 평가 (#, *, @, @@)
 - [AA01	강대진](https://github.com/ijdaejin/aa01)
-- [AA02	김민재]() #
+- [AA02	]() #
 - [AA03	김성우](https://github.com/Gukdoli/AA03)
 - [AA04	김정헌](https://github.com/jhkedwardkim/AA04)
-- [AA05 김주호]() #
+- [AA05 ]() #
 - [AA06	김창연](https://github.com/ckddus/AA06)
 - [AA07	김창욱](https://github.com/HM0007/AA07)
 - [AA08	김태화](https://github.com/TAaHwa/AA08)
@@ -32,7 +32,7 @@
 - [AA19	이현준](https://github.com/junlee00/aa19) 
 - [AA20	임태형](https://github.com/vmvvmvvmv/AA20) 
 - [AA21	정동현](https://github.com/DongHyunYee/AA21)
-- [AA22	정지환]() #
+- [AA22	]() #
 - [AA23	정희서](https://github.com/HiSeoJeong/AA23) 
 - [AA24	최재형](https://github.com/june6297/aa24)
 
