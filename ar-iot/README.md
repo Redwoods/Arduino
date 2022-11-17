@@ -29,7 +29,7 @@
 - [AA18	이준희](https://github.com/LJunHee/AA18) * * * @ * M@@@ @ * @
 - [AA19	이현준](https://github.com/junlee00/aa19) * * * @/2 * M* @ * @/2
 - [AA20	임태형](https://github.com/vmvvmvvmv/AA20) * * * @ * M@ @ * @
-- [AA21	정동현](https://github.com/DongHyunYee/AA21) * * * * * M@@ @/2 # *
+- [AA21	정동현](https://github.com/DongHyunYee/AA21) * * * * * M@@ @/2 * *
 - [AA23	정희서](https://github.com/HiSeoJeong/AA23) * ? * * # M* @ * *
 - [AA24	최재형](https://github.com/june6297/aa24) * * * @/2 * M@@@/2 @/2 * @
 
