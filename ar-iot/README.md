@@ -36,4 +36,5 @@
 ---
 ## Internet crash due to tiny module of node.js
 * https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/
+* https://n.news.naver.com/mnews/article/277/0005181898
 
