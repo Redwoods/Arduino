@@ -16,7 +16,7 @@
 - [AA04	김정헌](https://github.com/jhkedwardkim/AA04) * * * * * M* * * * #
 - [AA06	김창연](https://github.com/ckddus/AA06) * * * @ * M@@@/2 @ * ? ? 
 - [AA07	김창욱](https://github.com/HM0007/AA07) # # # # # M# # # # #
-- [AA08	김태화](https://github.com/TAaHwa/AA08) * * * @/2 * M@@@/2 * * @/2 #
+- [AA08	김태화](https://github.com/TAaHwa/AA08) * * * @/2 * M@@@/2 * * @/2 *
 - [AA09 남승현](https://github.com/nam0914/AA09) * ? * @ * M@@ @/2 * @ @@ 
 - [AA10	류재환](https://github.com/jaeHwanRy/AA10) * * * # # M# # # # #
 - [AA11	박세훈](https://github.com/uoooyas/AA11) * * * @ * M@@@ @ * @ @
