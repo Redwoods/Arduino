@@ -20,7 +20,7 @@
 - [AA09 남승현](https://github.com/nam0914/AA09) * ? * @ * M@@ @/2 * @ @@ 
 - [AA10	류재환](https://github.com/jaeHwanRy/AA10) * * * # # M# # # # #
 - [AA11	박세훈](https://github.com/uoooyas/AA11) * * * @ * M@@@ @ * @ @
-- [AA12	박신영](https://github.com/zachpaul7/AA12) * * * @ * M@@@ @ * @ @@/2
+- [AA12	박신영](https://github.com/zachpaul7/AA12) * * * @ * M@@@ @ * @ @@
 - [AA13 박제홍](https://github.com/qkrwpghd27/AA13) * * * @ * M@@@ @ * @ @@
 - [AA14	심준혁](https://github.com/dsfaewf/AA14) * * * @/2 * M@@ @ * @ @@/2
 - [AA15	이상혁](http://www.github.com/bsang50005/aa15) * # # * # M* * # * @ 
