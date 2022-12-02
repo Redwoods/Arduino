@@ -14,7 +14,7 @@
 - [AA01	강대진](https://github.com/ijdaejin/aa01) * * * @/2 # M* * * # * @/2 @
 - [AA03	김성우](https://github.com/Gukdoli/AA03) * * * @ * M@@@ @ * @ @@ @ @
 - [AA04	김정헌](https://github.com/jhkedwardkim/AA04) * * * * * M* * * * # # *
-- [AA06	김창연](https://github.com/ckddus/AA06) * * * @ * M@@@/2 @ * ? ? @ @
+- [AA06	김창연](https://github.com/ckddus/AA06) * * * @ * M@@@/2 @ * @/2 * @ @
 - [AA07	김창욱](https://github.com/HM0007/AA07) # # # # # M# # # # # # #
 - [AA08	김태화](https://github.com/TAaHwa/AA08) * * * @/2 * M@@@/2 * * @/2 * # @/2
 - [AA09 남승현](https://github.com/nam0914/AA09) * ? * @ * M@@ @/2 * @ @@ @ @/2
