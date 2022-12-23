@@ -18,7 +18,7 @@
 - [AA07	김창욱](https://github.com/HM0007/AA07) # # # # # M# # # # # # # # P##
 - [AA08	김태화](https://github.com/TAaHwa/AA08) * * * @/2 * M@@@/2 * * @/2 * # @/2 @/2 P**
 - [AA09 남승현](https://github.com/nam0914/AA09) * ? * @ * M@@ @/2 * @ @@ @ @/2 @ P@@/2
-- [AA10	류재환](https://github.com/jaeHwanRy/AA10) * * * # # M# # # # # # # # P##
+- [AA10	]
 - [AA11	박세훈](https://github.com/uoooyas/AA11) * * * @ * M@@@ @ * @ @ @ @/2 @ P@@
 - [AA12	박신영](https://github.com/zachpaul7/AA12) * * * @ * M@@@ @ * @ @@ @ @@ @@ P@@
 - [AA13 박제홍](https://github.com/qkrwpghd27/AA13) * * * @ * M@@@ @ * @ @@ @/2 @ @@/2 P@@
