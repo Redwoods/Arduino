@@ -18,14 +18,14 @@ HW
 # 2023 과제 및 평가 (github Repo) / m: 중간실기, p: 기말프로젝트
 * @: 우수, *: 제출, #: 미제출.  
 강동하 정재윤 유석진 정창민 정희서 유동기 장세진 
-- [AR01 강동하]()
-- [AR02 정재윤]()
+- [AR01 강동하](https://github.com/kangdongha2/ar01)
+- [AR02 정재윤](https://github.com/wjdwodbs1212/AR02)
 - [AR03 유석진]()
-- [AR04 정창민]()
-- [AR05 정희서]()
-- [AR06 유동기]()
-- [AR07 장세진]()
-- [AR08 정호기]()
+- [AR04 정창민](https://github.com/cllcmxx00/ar04)
+- [AR05 정희서](https://github.com/HiSeoJeong/AR05)
+- [AR06 유동기](https://github.com/wtfwtfs/ar06)
+- [AR07 장세진](https://github.com/sejin573/AR07)
+- [AR08 정호기](https://github.com/JeongHogi/AR08a)
 
 
 ---
