@@ -20,7 +20,7 @@ HW
 
 - [AR01 강동하](https://github.com/kangdongha2/ar01)
 - [AR02 정재윤](https://github.com/wjdwodbs1212/AR02)
-- [AR03 유석진]()
+- [AR03 유석진](https://github.com/20203310s/AR03)
 - [AR04 정창민](https://github.com/cllcmxx00/ar04)
 - [AR05 정희서](https://github.com/HiSeoJeong/AR05)
 - [AR06 유동기](https://github.com/wtfwtfs/ar06)
