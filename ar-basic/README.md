@@ -22,7 +22,7 @@ HW
 - [AR02 정재윤](https://github.com/wjdwodbs1212/AR02) *
 - [AR03 유석진](https://github.com/20203310s/AR03) *
 - [AR04 정창민](https://github.com/cllcmxx00/ar04) *
-- [AR05 정희서](https://github.com/HiSeoJeong/AR05) *
+- [AR05 정희서](https://github.com/HiSeoJeong/AR05) @
 - [AR06 유동기](https://github.com/wtfwtfs/ar06) @
 - [AR07 장세진](https://github.com/sejin573/AR07) @
 - [AR08 정호기](https://github.com/JeongHogi/AR08a) @
