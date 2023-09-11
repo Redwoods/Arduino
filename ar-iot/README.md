@@ -23,8 +23,7 @@
 - [AA10	유동기](https://github.com/wtfwtfs/aa10)
 - [AA11	]
 - [AA12 이근보](https://github.com/GuenBoLee/aa12)
-- [AA13	정호기](https://github.com/JeongHogi/AA13)
-- [AA14	]
+- [AA13	정호기](https://github.com/JeongHogi/AA13)  
 
 ---
 ## Internet crash due to tiny module of node.js
