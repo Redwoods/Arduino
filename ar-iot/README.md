@@ -12,7 +12,7 @@
 
 # github 과제 제출 확인 및 평가 (#, *, @, @@)
 - [AA01	강동하] #
-- [AA02	고서진] #
+- [AA02	고서진](https://github.com/spaceko126/AA02) *
 - [AA03	김민재](https://github.com/AR23-KMJ/aa03) *
 - [AA04	김예원](https://github.com/yewon1621/aa04) */2
 - [AA05	김주호] #
