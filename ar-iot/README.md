@@ -11,7 +11,7 @@
 ---
 
 # github 과제 제출 확인 및 평가 (#, *, @, @@)
-- [AA01	강동하] # #
+- [AA01	강동하] # # #
 - [AA02	고서진](https://github.com/spaceko126/AA02) * * *
 - [AA03	김민재](https://github.com/AR23-KMJ/aa03) * * *
 - [AA04	김예원](https://github.com/yewon1621/aa04) * * *
@@ -19,7 +19,7 @@
 - [AA06 김창욱](https://github.com/HM0007/AA06) * # #
 - [AA07	김현서] # # #
 - [AA08 박종혁](https://github.com/Park-Jong-Hyeok/aa08) * * *
-- [AA09	서명진](https://github.com/smj3343/aa09) * * 
+- [AA09	서명진](https://github.com/smj3343/aa09) * * *
 - [AA10	유동기](https://github.com/wtfwtfs/aa10) * * *
 - [AA11	]
 - [AA12 이근보](https://github.com/GuenBoLee/aa12) * * *
