@@ -17,7 +17,7 @@
 - [AA04	김예원](https://github.com/yewon1621/aa04) * * * * * *
 - [AA05	김주호] # # # # # #
 - [AA06 김창욱](https://github.com/HM0007/AA06) * # # # # #
-- [AA07	김현서] # # # # # #
+- [AA07	김현서](https://github.com/HyunSeo0928/AA07) # # # # # #
 - [AA08 박종혁](https://github.com/Park-Jong-Hyeok/aa08) * * * * * *
 - [AA09	서명진](https://github.com/smj3343/aa09) * * * * * *
 - [AA10	유동기](https://github.com/wtfwtfs/aa10) * * * * * *
