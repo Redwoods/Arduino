@@ -15,17 +15,10 @@ HW
 
 ---
 
-# 2023 과제 및 평가 (github Repo) / m: 중간실기, p: 기말프로젝트
+# 과제 및 평가 (github Repo) / m: 중간실기, p: 기말프로젝트
 * @: 우수, *: 제출, #: 미제출.  
 
-- [AR01 강동하](https://github.com/kangdongha2/ar01) */2 @/2 @ @/2 @/2 @ M@@ # # # @/2 @/2 @ P@
-- [AR02 정재윤](https://github.com/wjdwodbs1212/AR02) * @/2 @ @ @ @ M@@ @ @ @/2 @ @ @ @ P@/2
-- [AR03 유석진](https://github.com/20203310s/AR03) * @ @ @/2 @ @/2 M@ @ @ @ @ @ @ P@@@/2
-- [AR04 ]
-- [AR05 정희서](https://github.com/HiSeoJeong/AR05) @ @ @ @/2 @ @ M@ # @ @ @ @ @ P@@
-- [AR06 유동기](https://github.com/wtfwtfs/ar06) @ @ @ @ @ @ M@@@ @ @ @ @ @ @ P@@@/2
-- [AR07 장세진](https://github.com/sejin573/AR07) @ @ @ @ @ @ M@@ @ @ @ @ @ @ P@@@
-- [AR08 정호기](https://github.com/JeongHogi/AR08a) @ @ @ @/2 @/2 @ M@@ @ @/2 @ @ @ @/2 @ P@@
+
 
 
 ---
